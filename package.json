@@ -18,7 +18,6 @@
     "baileys": "npm:baileys-mod@latest",
     "buffer": "^6.0.3",
     "canvafy": "^7.2.1",
-    "canvas": "^3.1.0",
     "cfonts": "^2.10.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
